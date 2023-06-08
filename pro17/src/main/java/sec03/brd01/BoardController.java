@@ -1,4 +1,4 @@
-package sec03.ex01;
+package sec03.brd01;
 
 import java.io.IOException;
 import java.util.ArrayList;
